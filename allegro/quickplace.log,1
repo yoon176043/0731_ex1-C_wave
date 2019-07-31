@@ -1,0 +1,43 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : CHOPPING_WAVE.brd                             )
+(    Software Version : 17.2S052                                      )
+(    Date/Time        : Wed Jul 31 10:35:25 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U3 / LF356_0_DIP8_3_LF356 / DIP8_3 at (1.4732 79.0932)
+         Placed symbol:  U2 / LF356_0_DIP8_3_LF356 / DIP8_3 at (11.8364 79.0932)
+         Placed symbol:  U1 / LF356_0_DIP8_3_LF356 / DIP8_3 at (22.1996 79.0932)
+         Placed symbol:  U4 / LF356_0_DIP8_3_LF356 / DIP8_3 at (32.5628 79.0932)
+         Placed symbol:  R12 / RESISTOR VAR_RESADJ_10K / RESADJ at (45.4660 76.4008)
+         Placed symbol:  R10 / RESISTOR VAR_RESADJ_470K / RESADJ at (50.7492 76.4008)
+         Placed symbol:  R11 / RESISTOR VAR_RESADJ_100K / RESADJ at (56.0324 76.4008)
+         Placed symbol:  R3 / R_RES400_4.7K / RES400 at (59.3598 71.3843)
+         Placed symbol:  R1 / R_RES400_4.7K / RES400 at (62.6872 71.3843)
+         Placed symbol:  R2 / R_RES400_4.7K / RES400 at (66.0146 71.3843)
+         Placed symbol:  R4 / R_RES400_4.7K / RES400 at (69.3420 71.3843)
+         Placed symbol:  C4 / CAP NP_CAP196_0.001UF / CAP196 at (73.6092 71.4732)
+         Placed symbol:  R13 / R_RES400_8.2K / RES400 at (78.4606 71.3843)
+         Placed symbol:  R15 / R_RES400_10K / RES400 at (81.7880 71.3843)
+         Placed symbol:  R5 / R_RES400_10K / RES400 at (85.1154 71.3843)
+         Placed symbol:  R9 / R_RES400_10K / RES400 at (88.4428 71.3843)
+         Placed symbol:  R16 / R_RES400_5.1K / RES400 at (91.7702 71.3843)
+         Placed symbol:  R6 / R_RES400_1K / RES400 at (95.0976 71.3843)
+         Placed symbol:  R7 / R_RES400_15K / RES400 at (98.4250 71.3843)
+         Placed symbol:  R8 / R_RES400_20K / RES400 at (2.0574 84.1097)
+         Placed symbol:  C3 / CAP NP_CAP196_0.001UF / CAP196 at (6.3246 84.1986)
+         Placed symbol:  C2 / CAP NP_CAP196_0.001UF / CAP196 at (12.1158 84.1986)
+         Placed symbol:  R14 / R_RES400_2.2K / RES400 at (16.9672 84.1097)
+         Placed symbol:  C1 / CAP NP_CAP196_0.001UF / CAP196 at (21.2344 84.1986)
+
+
+Placed 24 of 24 applicable (24 total) symbols.
+
+-----------------------------------------------------------------------
+

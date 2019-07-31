@@ -1,0 +1,8 @@
+2019-07-31T10:15:19 ===> "C:/USERS/USER/DESKTOP/WORK/0731/allegro/pstchip.dat"
+2019-07-31T10:15:19 ===> "C:/USERS/USER/DESKTOP/WORK/0731/allegro/pstxnet.dat"
+2019-07-31T10:15:19 ===> "C:/USERS/USER/DESKTOP/WORK/0731/allegro/pstxprt.dat"
+2019-07-31T10:15:19 ===> "C:/USERS/USER/DESKTOP/WORK/0731/allegro/pstdmlmodels.dat"
+2019-07-31T10:25:50 ===> "C:/USERS/USER/DESKTOP/WORK/0731/allegro/pstchip.dat"
+2019-07-31T10:25:50 ===> "C:/USERS/USER/DESKTOP/WORK/0731/allegro/pstxnet.dat"
+2019-07-31T10:25:50 ===> "C:/USERS/USER/DESKTOP/WORK/0731/allegro/pstxprt.dat"
+2019-07-31T10:25:50 ===> "C:/USERS/USER/DESKTOP/WORK/0731/allegro/pstdmlmodels.dat"

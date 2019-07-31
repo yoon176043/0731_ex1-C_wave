@@ -1,0 +1,28 @@
+  Revised: Wednesday, July 31, 2019
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials           July 31,2019      10:03:59	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	4	C1,C2,C3,C4	0.001uF
+2	1	J1	CON2
+3	1	J2	CON3
+4	4	R1,R2,R3,R4	4.7k
+5	4	R5,R9,R12,R15	10k
+6	1	R6	1k
+7	1	R7	15k
+8	1	R8	20k
+9	1	R10	470k
+10	1	R11	100k
+11	1	R13	8.2k
+12	1	R14	2.2k
+13	1	R16	5.1k
+14	4	U1,U2,U3,U4	LF356

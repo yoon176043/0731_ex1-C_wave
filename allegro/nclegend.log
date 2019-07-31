@@ -1,0 +1,22 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DRILL LEGEND                                                     )
+(                                                                     )
+(    Drawing          : CHOPPING_WAVE.brd                             )
+(    Software Version : 17.2S052                                      )
+(    Date/Time        : Wed Jul 31 12:32:54 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Begin processing of drill legend template file 'c:/cadence/spb_17.2/share/pcb/text/nclegend/default-mm.dlt' ...
+WARNING(SPMHSK-41): Title Text Block number is greater than Max Text Block(4) ... assuming 1.
+WARNING(SPMHSK-41): Column Title Text Block number is greater than Max Text Block(4) ... assuming 1.
+WARNING(SPMHSK-41): Data Text Block number is greater than Max Text Block(4) ... assuming 1.
+WARNING(SPMHSK-47): Column type 'HoleSize' does not exist.
+WARNING(SPMHSK-47): Column type 'PlateStatus' does not exist.
+End of drill legend template file processing.
+
+Begin processing drill holes.
+No errors detected in processing holes.
+End processing drill holes.

@@ -1,0 +1,21 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Without Nets Report                                        )
+(                                                                     )
+(    Drawing          : CHOPPING_WAVE.brd                             )
+(    Software Version : 17.2S052                                      )
+(    Date/Time        : Wed Jul 31 12:26:20 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total shapes not on a net: 2
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+	Point on shape: (3.7300 28.6500)  Net: Dummy Net
+	Point on shape: (93.7300 31.1900)  Net: Dummy Net
+
+    To suppress in report attach OK_UNASSIGNED_SHAPE property to shape.
